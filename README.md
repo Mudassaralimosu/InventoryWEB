@@ -1,11 +1,15 @@
 # InventoryWEB
 
-Inventory Project where the user add the product which he/she wants to order
+Inventory Project where the user add the product which he/she wants to order.
+
+
 In the Admin Dashboard it will show all the statistics, how many users, product and orders are added with the graph.
 
 # Admin Dashboard
 
-![Screenshot 2023-01-16 at 8 57 53 PM](https://user-images.githubusercontent.com/71853471/212716709-d7ad3639-8141-48ca-9bbd-af99a3f655c5.png)
+
+![Screenshot 2023-01-16 at 9 20 46 PM](https://user-images.githubusercontent.com/71853471/212718962-c5a9cc15-6d7e-40a7-b874-ee954eebad78.png)
+
 
 # User Dashboard
 
@@ -30,5 +34,26 @@ In the Admin Dashboard it will show all the statistics, how many users, product 
 ![Screenshot 2023-01-16 at 9 43 06 AM](https://user-images.githubusercontent.com/71853471/212718214-0e076ddd-a72c-468c-837b-743a3f7e9be0.png)
 
 
+# Profile Page
+
+
+![Screenshot 2023-01-16 at 8 58 59 PM](https://user-images.githubusercontent.com/71853471/212720237-4beaa68a-4e4e-45c8-9057-315cd4e8049c.png)
+
+
+# Admin Staff, Product and Order Page
+
+![Screenshot 2023-01-16 at 8 58 36 PM](https://user-images.githubusercontent.com/71853471/212719143-43c71de1-3b56-4b8f-9b5e-f2831d58fb44.png)
+
+
+![Screenshot 2023-01-16 at 8 58 46 PM](https://user-images.githubusercontent.com/71853471/212720113-64ee667d-6c95-489f-8dd5-a9067bb013f7.png)
+
+
+![Screenshot 2023-01-16 at 8 58 18 PM](https://user-images.githubusercontent.com/71853471/212720158-79110dd8-abeb-453c-b765-0bb32b2b714a.png)
+
+
+# Logout Page
+
+
+![Screenshot 2023-01-16 at 9 21 07 PM](https://user-images.githubusercontent.com/71853471/212720337-c825d861-89a2-4241-8c8f-8d6f8beccefd.png)
 
 
